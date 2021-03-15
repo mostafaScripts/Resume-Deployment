@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name":"Mostafa Nasser",
+    "occupation":"Data Scientist",
+    "description":"Even since writing my first notebook in python and manipulating it to get inspiring findings and desired output. I’ve been obsessed with the idea of using software and analysis tools to solve practical problems. Data analysis is a never-ending challenging field that I am passionately engaged in solving. and I believe in its power to improve lives of people around the world.",
+    "image":"profilepic.jpg",
+    "bio":"i am an analyst at heart, with an entrepreneurial spirit, a knack for exploration, and a passion for solving problems,Having finished my bachelor's degree in economics and working on my masters thesis in information technology, i pursued my first data science experience by finishing alot of MOOCS and building a robust personal portfolio with a main aim, which helping businesses doing their jobs more efficiently, intelligently, and robustly by providing predictive and prescriptive analytics using cutting edge technologies.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mostafanasserofficial@gmail.com",
+    "phone": "+20-1141428502",
+    "address":{
+      "street":"Victoria",
+      "city":"",
+      "Country":"(Your State)",
+      "zip": "Egypt"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1CH9naUSq5s_nUtZKw51FTIREMACREtGk/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/mostafanasser56712",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mostafanasser25/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/mostafaa_nasser/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/mostafaScripts",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Institute of Graduate Studies and Research",
+        "degree":"Masters of science-MS. information technology, overall grade: B+ *thesis in progress*",
+        "graduated":"Jan 2020",
+        "description":"Communication Systems And Computer Networks, Network And Information Security 2, Data Structures, Pattern Recognition, Image Processing, Graphics And Visualization, Smart Decision Support Systems 2, Software Engineering, Data Mining And Data Warehousing, Research Methodology, Technical Writing."
+      },
+      {
+        "school":"University of Alexandria",
+        "degree":"Bachelors in Economics and Political science, English section",
+        "graduated":"September 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Python for data science",
+        "level":"70%"
+      },
+      {
+        "name":"Power BI/ Tableau",
+        "level":"80%"
+      },
+      {
+        "name":"Statistics",
+        "level":"90%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"50%"}
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Airbnb NYC, data visualization",
+        "category":"A Dashboard aims to find the optimal unit based on customers prefrences",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://public.tableau.com/profile/mostafa4638#!/vizhome/AirbnbNYS/NYCAirbnb"
+      },
+      {
+        "title":"StackOverFlow 2019 survey Dashboard",
+        "category":"interactive dashboard using IBM Cognos",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://dataplatform.cloud.ibm.com/dashboards/93044346-9f12-4992-b953-8017fa149d0b/view/7c65f42815f514d44cb2f6e407ca7e027f3f740cb1bb8002d2807b495c607397f3601b99c82a425f8b44026bf1bd41589c"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
